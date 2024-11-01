@@ -5,5 +5,7 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.YouNeverEndThisGame" parent="Base.Theme.YouNeverEndThisGame" />
+    <style name="Theme.YouNeverEndThisGame" parent="Base.Theme.YouNeverEndThisGame">
+        <item name="android:fontFamily">@font/sunflower</item>
+    </style>
 </resources>

@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">YouNeverEndThisGame</string>
+
+    <string name="scene_start_title">당신은 이 게임을 깰 수 없어</string>
+    <string name="scene_start_btn">START</string>
 </resources>
